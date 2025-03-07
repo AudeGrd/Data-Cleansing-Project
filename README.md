@@ -1,4 +1,5 @@
-Data Cleansing Project
+Data Cleansing Project 
+
 This project was completed in collaboration with @jjmayorgah during our exchange semester in Morocco.
 
 Overview:
